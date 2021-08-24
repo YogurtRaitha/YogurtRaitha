@@ -1,4 +1,5 @@
-[
+{
+ "locations" : [
   {
 "id" : 1,
 "latitude" : 47.6062,
@@ -12,3 +13,4 @@
 "title" : "Seattle"
 }
 ]
+}
